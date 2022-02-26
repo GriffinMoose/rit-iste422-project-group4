@@ -1,0 +1,137 @@
+
+> Task :compileJava
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeTable.java:33: warning: [removal] Integer(int) in Integer has been deprecated and marked for removal
+      alRelatedTables.add(new Integer(relatedTable));
+                          ^
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeTable.java:53: warning: [removal] Integer(int) in Integer has been deprecated and marked for removal
+      alNativeFields.add(new Integer(value));
+                         ^
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1019: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+                  objOutput = conResultClass.newInstance(null);
+                                                         ^
+  cast to Object for a varargs call
+  cast to Object[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1025: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+               Method getProductName = resultClass.getMethod("getProductName", null);
+                                                                               ^
+  cast to Class for a varargs call
+  cast to Class[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1026: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+               String productName = (String)getProductName.invoke(objOutput, null);
+                                                                             ^
+  cast to Object for a varargs call
+  cast to Object[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1076: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+         Method getSQLString = selectedSubclass.getMethod("getSQLString", null);
+                                                                          ^
+  cast to Class for a varargs call
+  cast to Class[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1077: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+         Method getDatabaseName = selectedSubclass.getMethod("getDatabaseName", null);
+                                                                                ^
+  cast to Class for a varargs call
+  cast to Class[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1078: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+         strSQLString = (String)getSQLString.invoke(objSubclasses[selected], null);
+                                                                             ^
+  cast to Object for a varargs call
+  cast to Object[] for a non-varargs call and to suppress this warning
+/home/runner/rit-iste422-project-group4/src/main/java/EdgeConvertGUI.java:1079: warning: non-varargs call of varargs method with inexact argument type for last parameter;
+         databaseName = (String)getDatabaseName.invoke(objSubclasses[selected], null);
+                                                                                ^
+  cast to Object for a varargs call
+  cast to Object[] for a non-varargs call and to suppress this warning
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+9 warnings
+
+> Task :processResources UP-TO-DATE
+> Task :classes
+
+> Task :run
+03:42:52.026 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 1 name: STUDENT]
+03:42:52.027 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 2 name: FACULTY]
+03:42:52.029 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 3 name: Grade]
+03:42:52.030 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 4 name: CourseName]
+03:42:52.030 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 5 name: Number]
+03:42:52.031 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 6 name: FacSSN]
+03:42:52.036 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 7 name: StudentSSN]
+03:42:52.036 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 8 name: StudentName]
+03:42:52.144 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 11 name: FacultyName]
+03:42:52.144 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 13 name: COURSES]
+.bashrc
+.profile
+.bash_logout
+.nix-channels
+.nix-defexpr
+.cache
+.nix-profile
+.cargo
+.m2
+.npm
+.config
+rit-iste422-project-group4
+.gradle
+.fluxbox
+.java
+03:42:56.904 [AWT-EventQueue-0] WARN  EdgeConvertGUI - Path /home/runner no valid output definition files
+ExampleFileFilter.class
+EdgeConnector.class
+CreateDDLMySQL.class
+EdgeConvertCreateDDL.class
+EdgeTable.class
+EdgeField.class
+RunEdgeConvert.class
+EdgeConvertFileParser.class
+EdgeConvertGUI$1.class
+EdgeConvertGUI$2.class
+EdgeConvertGUI$3.class
+EdgeConvertGUI$4.class
+EdgeConvertGUI$5.class
+EdgeConvertGUI$6.class
+EdgeConvertGUI$7.class
+EdgeConvertGUI$8.class
+EdgeConvertGUI$9.class
+EdgeConvertGUI$10.class
+EdgeConvertGUI$11.class
+EdgeConvertGUI$12.class
+EdgeConvertGUI$13.class
+EdgeConvertGUI$14.class
+EdgeConvertGUI$15.class
+EdgeConvertGUI$EdgeRadioButtonListener.class
+EdgeConvertGUI$EdgeWindowListener.class
+EdgeConvertGUI$CreateDDLButtonListener.class
+EdgeConvertGUI$EdgeMenuListener.class
+EdgeConvertGUI.class
+ExampleFileFilter.class
+EdgeConnector.class
+CreateDDLMySQL.class
+EdgeConvertCreateDDL.class
+EdgeTable.class
+EdgeField.class
+RunEdgeConvert.class
+EdgeConvertFileParser.class
+EdgeConvertGUI$1.class
+EdgeConvertGUI$2.class
+EdgeConvertGUI$3.class
+EdgeConvertGUI$4.class
+EdgeConvertGUI$5.class
+EdgeConvertGUI$6.class
+EdgeConvertGUI$7.class
+EdgeConvertGUI$8.class
+EdgeConvertGUI$9.class
+EdgeConvertGUI$10.class
+EdgeConvertGUI$11.class
+EdgeConvertGUI$12.class
+EdgeConvertGUI$13.class
+EdgeConvertGUI$14.class
+EdgeConvertGUI$15.class
+EdgeConvertGUI$EdgeRadioButtonListener.class
+EdgeConvertGUI$EdgeWindowListener.class
+EdgeConvertGUI$CreateDDLButtonListener.class
+EdgeConvertGUI$EdgeMenuListener.class
+EdgeConvertGUI.class
+03:43:13.175 [AWT-EventQueue-0] INFO  CreateDDLMySQL - DDL Created
+
+BUILD SUCCESSFUL in 50s
+3 actionable tasks: 2 executed, 1 up-to-date

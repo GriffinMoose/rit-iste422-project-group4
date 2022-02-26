@@ -1,0 +1,17 @@
+2022-02-26 00:12:38.566 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.607 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.652 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.683 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.684 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.701 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.761 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.762 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.777 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.791 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.815 [Test worker] DEBUG EdgeConnector - isEp1Field set to false
+2022-02-26 00:12:38.816 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.853 [Test worker] DEBUG EdgeConnector - isEp3Field set to false
+2022-02-26 00:12:38.861 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.862 [Test worker] DEBUG EdgeConnector - isEp2Field set to false
+2022-02-26 00:12:38.909 [Test worker] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 3 ... endStyle1: testStyle1... endStyle2: testStyle2
+2022-02-26 00:12:38.910 [Test worker] DEBUG EdgeConnector - isEp4Field set to false
