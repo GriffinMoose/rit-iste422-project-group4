@@ -1,45 +1,43 @@
-2022-02-26 03:42:44.939 [main] INFO  EdgeConvertGUI - EdgeConvertGui Created
-2022-02-26 03:42:51.953 [AWT-EventQueue-0] DEBUG EdgeConvertFileParser - Opening File: Courses.edg
-2022-02-26 03:42:52.026 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 1 name: STUDENT]
-2022-02-26 03:42:52.027 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 2 name: FACULTY]
-2022-02-26 03:42:52.029 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 3 name: Grade]
-2022-02-26 03:42:52.030 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 4 name: CourseName]
-2022-02-26 03:42:52.030 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 5 name: Number]
-2022-02-26 03:42:52.031 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 6 name: FacSSN]
-2022-02-26 03:42:52.036 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 7 name: StudentSSN]
-2022-02-26 03:42:52.036 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 8 name: StudentName]
-2022-02-26 03:42:52.137 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 7 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.137 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 8 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.144 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 11 name: FacultyName]
-2022-02-26 03:42:52.144 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 11 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.144 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 13 name: COURSES]
-2022-02-26 03:42:52.145 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 15 ... endStyle1: ER mand many... endStyle2: ER opt many
-2022-02-26 03:42:52.145 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 15 ... endPoint2: 13 ... endStyle1: ER mand many... endStyle2: ER opt many
-2022-02-26 03:42:52.145 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 13 ... endStyle1: ER single... endStyle2: ER opt many
-2022-02-26 03:42:52.146 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 15 ... endPoint2: 3 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.146 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: -1 ... endPoint2: 13 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.146 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 5 ... endPoint2: 13 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.146 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 6 ... endPoint2: 2 ... endStyle1: null... endStyle2: null
-2022-02-26 03:42:52.147 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
-2022-02-26 03:42:52.147 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
-2022-02-26 03:42:52.147 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
-2022-02-26 03:42:52.147 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
-2022-02-26 03:42:52.148 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
-2022-02-26 03:42:52.148 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
-2022-02-26 03:42:52.149 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
-2022-02-26 03:42:52.149 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
-2022-02-26 03:42:52.149 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
-2022-02-26 03:42:52.149 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
-2022-02-26 03:42:52.149 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
-2022-02-26 03:42:52.150 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
-2022-02-26 03:42:52.150 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp1Field set to true
-2022-02-26 03:42:52.223 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
-2022-02-26 03:42:52.223 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp1Field set to true
-2022-02-26 03:42:52.223 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
-2022-02-26 03:42:56.900 [AWT-EventQueue-0] DEBUG EdgeConvertGUI - output path: /home/runner
-2022-02-26 03:42:56.904 [AWT-EventQueue-0] WARN  EdgeConvertGUI - Path /home/runner no valid output definition files
-2022-02-26 03:43:08.551 [AWT-EventQueue-0] DEBUG EdgeConvertGUI - output path: /home/runner/rit-iste422-project-group4/build/classes/java/main
-2022-02-26 03:43:08.554 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - tables: [Table: 1
+2022-04-13 00:54:27.666 [main] INFO  EdgeConvertGUI - EdgeConvertGui Created
+2022-04-13 00:55:33.587 [AWT-EventQueue-0] DEBUG EdgeConvertFileParser - Opening File: Courses.edg
+2022-04-13 00:55:33.659 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 1 name: STUDENT]
+2022-04-13 00:55:33.675 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 2 name: FACULTY]
+2022-04-13 00:55:33.713 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 3 name: Grade]
+2022-04-13 00:55:33.713 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 4 name: CourseName]
+2022-04-13 00:55:33.715 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 5 name: Number]
+2022-04-13 00:55:33.718 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 6 name: FacSSN]
+2022-04-13 00:55:33.721 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 7 name: StudentSSN]
+2022-04-13 00:55:33.724 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 8 name: StudentName]
+2022-04-13 00:55:33.814 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 7 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.856 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 8 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.856 [AWT-EventQueue-0] INFO  EdgeField - EdgeField Created: [ numFigure: 11 name: FacultyName]
+2022-04-13 00:55:33.862 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 11 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.872 [AWT-EventQueue-0] INFO  EdgeTable - Created EdgeTable: [ numFigure: 13 name: COURSES]
+2022-04-13 00:55:33.892 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 1 ... endPoint2: 15 ... endStyle1: ER mand many... endStyle2: ER opt many
+2022-04-13 00:55:33.911 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 15 ... endPoint2: 13 ... endStyle1: ER mand many... endStyle2: ER opt many
+2022-04-13 00:55:33.928 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 2 ... endPoint2: 13 ... endStyle1: ER single... endStyle2: ER opt many
+2022-04-13 00:55:33.928 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 15 ... endPoint2: 3 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.928 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: -1 ... endPoint2: 13 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.952 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 5 ... endPoint2: 13 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.952 [AWT-EventQueue-0] DEBUG EdgeConnector - endPoint1: 6 ... endPoint2: 2 ... endStyle1: null... endStyle2: null
+2022-04-13 00:55:33.953 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
+2022-04-13 00:55:33.954 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
+2022-04-13 00:55:33.954 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
+2022-04-13 00:55:33.954 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
+2022-04-13 00:55:33.955 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
+2022-04-13 00:55:33.955 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
+2022-04-13 00:55:33.955 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
+2022-04-13 00:55:33.955 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
+2022-04-13 00:55:33.956 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp3Field set to true
+2022-04-13 00:55:33.956 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
+2022-04-13 00:55:33.956 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp2Field set to true
+2022-04-13 00:55:33.956 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
+2022-04-13 00:55:33.957 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp1Field set to true
+2022-04-13 00:55:33.957 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
+2022-04-13 00:55:33.958 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp1Field set to true
+2022-04-13 00:55:33.958 [AWT-EventQueue-0] DEBUG EdgeConnector - isEp4Field set to true
+2022-04-13 00:55:45.560 [AWT-EventQueue-0] DEBUG EdgeConvertGUI - output path: /home/runner/rit-iste422-project-group4/build/classes/java/main
+2022-04-13 00:55:45.626 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - tables: [Table: 1
 {
 TableName: STUDENT
 NativeFields: 7|8
@@ -61,9 +59,9 @@ RelatedTables: 2
 RelatedFields: 0|0
 }
 ]
-2022-02-26 03:43:08.626 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - fields: [3|Grade|13|0|0|0|1|false|false|, 4|CourseName|0|0|0|0|1|false|false|, 5|Number|13|0|0|0|1|false|false|, 6|FacSSN|2|0|0|0|1|false|false|, 7|StudentSSN|1|0|0|0|1|false|false|, 8|StudentName|1|0|0|0|1|false|false|, 11|FacultyName|2|0|0|0|1|false|false|]
-2022-02-26 03:43:08.627 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - table length: 3
-2022-02-26 03:43:10.692 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - tables: [Table: 1
+2022-04-13 00:55:45.788 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - fields: [3|Grade|13|0|0|0|1|false|false|, 4|CourseName|0|0|0|0|1|false|false|, 5|Number|13|0|0|0|1|false|false|, 6|FacSSN|2|0|0|0|1|false|false|, 7|StudentSSN|1|0|0|0|1|false|false|, 8|StudentName|1|0|0|0|1|false|false|, 11|FacultyName|2|0|0|0|1|false|false|]
+2022-04-13 00:55:45.790 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - table length: 3
+2022-04-13 00:55:46.824 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - tables: [Table: 1
 {
 TableName: STUDENT
 NativeFields: 7|8
@@ -85,11 +83,11 @@ RelatedTables: 2
 RelatedFields: 0|0
 }
 ]
-2022-02-26 03:43:10.693 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - fields: [3|Grade|13|0|0|0|1|false|false|, 4|CourseName|0|0|0|0|1|false|false|, 5|Number|13|0|0|0|1|false|false|, 6|FacSSN|2|0|0|0|1|false|false|, 7|StudentSSN|1|0|0|0|1|false|false|, 8|StudentName|1|0|0|0|1|false|false|, 11|FacultyName|2|0|0|0|1|false|false|]
-2022-02-26 03:43:10.693 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - table length: 3
-2022-02-26 03:43:13.174 [AWT-EventQueue-0] DEBUG CreateDDLMySQL - Creating DDL for MySQLDB
-2022-02-26 03:43:13.175 [AWT-EventQueue-0] DEBUG CreateDDLMySQL - Finished creating DDL
-2022-02-26 03:43:13.175 [AWT-EventQueue-0] INFO  CreateDDLMySQL - DDL Created
-2022-02-26 03:43:13.177 [AWT-EventQueue-0] DEBUG EdgeConvertGUI - Writing SQL file to: /home/runner/rit-iste422-project-group4/MySQLDB.sql
-2022-02-26 03:43:13.178 [AWT-EventQueue-0] INFO  EdgeConvertGUI - Creating file: MySQLDB.sql
-2022-02-26 03:43:15.838 [AWT-EventQueue-0] INFO  EdgeConvertGUI - File created successfully
+2022-04-13 00:55:46.860 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - fields: [3|Grade|13|0|0|0|1|false|false|, 4|CourseName|0|0|0|0|1|false|false|, 5|Number|13|0|0|0|1|false|false|, 6|FacSSN|2|0|0|0|1|false|false|, 7|StudentSSN|1|0|0|0|1|false|false|, 8|StudentName|1|0|0|0|1|false|false|, 11|FacultyName|2|0|0|0|1|false|false|]
+2022-04-13 00:55:46.863 [AWT-EventQueue-0] DEBUG EdgeConvertCreateDDL - table length: 3
+2022-04-13 00:55:49.485 [AWT-EventQueue-0] DEBUG CreateDDLMySQL - Creating DDL for MySQLDB
+2022-04-13 00:55:49.486 [AWT-EventQueue-0] DEBUG CreateDDLMySQL - Finished creating DDL
+2022-04-13 00:55:49.487 [AWT-EventQueue-0] INFO  CreateDDLMySQL - DDL Created
+2022-04-13 00:55:49.503 [AWT-EventQueue-0] DEBUG EdgeConvertGUI - Writing SQL file to: /home/runner/rit-iste422-project-group4/MySQLDB.sql
+2022-04-13 00:55:49.513 [AWT-EventQueue-0] INFO  EdgeConvertGUI - Creating file: MySQLDB.sql
+2022-04-13 00:55:51.846 [AWT-EventQueue-0] INFO  EdgeConvertGUI - File created successfully
